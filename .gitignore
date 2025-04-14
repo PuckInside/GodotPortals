@@ -5,6 +5,3 @@
 # C# specific ignores
 .vs/
 x64/
-
-3DStudyProject.sln 
-3DStudyProject.csproj
