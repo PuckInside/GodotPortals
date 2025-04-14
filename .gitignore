@@ -1,0 +1,10 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# C# specific ignores
+.vs/
+x64/
+
+3DStudyProject.sln 
+3DStudyProject.csproj
