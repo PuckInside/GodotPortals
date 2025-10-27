@@ -1,11 +1,11 @@
 # Godot Portals
 
-This project is a simple prototype of portals made with Godot Engine and C#.  
+Это проект экспериментальный с достаточно кривой реализацией порталов на движке Godot. 
 
 ---
 
-## Features
+## Что реализовано
 
-- Player can enter a portal and appear at another one  
-- Keeps movement direction when teleporting  
-- Simple collision handling  
+- Телепортация с одного портала в другой
+- Сохраняется вектор движение игрока относительно выходного портала
+- Базовый контроллер персонажа
